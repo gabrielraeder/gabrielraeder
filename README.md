@@ -1,4 +1,7 @@
-### Hi there 👋
+#### 👋 Hi, I'm @gabrielraeder
+#### 🔭 I’m currently working on ...
+#### 👯 I’m looking to collaborate on React and JS projects
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabrielraedergoncalves/)
 
 <!--
 **gabrielraeder/gabrielraeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
