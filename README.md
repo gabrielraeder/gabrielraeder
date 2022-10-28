@@ -2,6 +2,7 @@
 - 🔭 I’m currently learning web development on [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking to collaborate on React and JS projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabrielraedergoncalves/)
+- 📫 Email: gabrielraeder@outlook.com.br
 
 <!--
 **gabrielraeder/gabrielraeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
