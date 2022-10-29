@@ -4,6 +4,10 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabrielraedergoncalves/)
 - 📫 Email: gabrielraeder@outlook.com.br
 
+ <h3 align="left">Languages and Tools:</h3>
+  <div style="display: inline_block"><br>
+	<img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,redux,jest,docker,mysql,nodejs" />
+<div> <br/>
 <!--
 **gabrielraeder/gabrielraeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
