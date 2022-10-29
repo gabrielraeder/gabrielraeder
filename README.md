@@ -4,7 +4,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabrielraedergoncalves/)
 - 📫 Email: gabrielraeder@outlook.com.br
 
-
+ <br/>
+ <br/>
 
  <h3 align="left">Languages and Tools:</h3>
   <div style="display: inline_block"><br>
