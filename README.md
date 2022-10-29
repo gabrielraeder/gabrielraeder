@@ -1,13 +1,13 @@
 - 👋 Hi, I'm @gabrielraeder
 - 🔭 I’m currently learning web development on [Trybe](https://www.betrybe.com/)
 - 👯 I’m looking to collaborate on React and JS projects
- <hr/>
+
+<hr/>
 <div> 
   <a href = "mailto:gabrielraeder@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielraedergoncalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
- <br/>
  <hr/>
 
  <div style="display: inline_block"><br>
