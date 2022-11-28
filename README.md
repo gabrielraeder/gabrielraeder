@@ -29,6 +29,8 @@
   <br/>
   <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img align="center" alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white">
+  <img align="center" alt="Chai" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+  <img align="center" alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
 
  <br/>
