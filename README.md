@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @gabrielraeder
 - 🔭 I’m currently learning web development on [Trybe](https://www.betrybe.com/)
-- 👯 I’m looking to collaborate on React and JS projects
 
 <hr/>
 <div>
