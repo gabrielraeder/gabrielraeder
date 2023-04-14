@@ -1,5 +1,8 @@
 - 👋 Hi, I'm @gabrielraeder
-- 🔭 I’m currently learning web development on [Trybe](https://www.betrybe.com/)
+- 💻 Back End Developer
+- 🔭 I’m currently python and java
+- 🤝 I'm looking to collaborate with BackEnd projects
+
 
 <hr/>
 <div>
