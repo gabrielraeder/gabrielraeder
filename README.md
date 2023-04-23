@@ -64,3 +64,5 @@
  
  ---
  ![](https://komarev.com/ghpvc/?username=gabrielraeder&color=red)
+ ![](https://img.shields.io/static/v1?label=⮞&message=%2B%20XXX%20lines%20of%20code%20shared&color=red&logo=github)
+
