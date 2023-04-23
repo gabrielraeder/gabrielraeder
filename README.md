@@ -50,3 +50,15 @@
 
  <br/>
  <hr/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielraeder&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=300pxalign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielraeder&theme=dark&layout=compact" />
+</a>
+ 
+ 
+ 
+ <br/>
+ <hr/>
+ ![](https://komarev.com/ghpvc/?username=gabrielraeder&color=red)
