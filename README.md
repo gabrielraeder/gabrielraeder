@@ -57,7 +57,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=260px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielraeder&theme=dark&layout=compact" />
   </a> 
-  <img width=280px align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=d9233918r9iy815szro44yuzp&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
+  <img width=280px align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=d9233918r9iy815szro44yuzp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
 </div>
  <br/>
  
