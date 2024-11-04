@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=D43030&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=D43030&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)-->
 
-- 👋 Hi, I'm `Gabriel Raeder Gonçalves`
-- 💻 Back-End | Full-stack Developer
-- 🤝 I'm looking to collaborate with any project that i may be able to help!
+- Hi, I'm `Gabriel Raeder Gonçalves`
+- Back-End | Full-stack Developer
 
 
 <hr/>
